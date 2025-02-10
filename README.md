@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Alex Desatoff e eu estudo Python e curso Engenharia de Software atualmente! </h2>
+<h2 align="left">Hi 👋! My name is Alex Desatoff. I'm studying Python on RocketSeat and Software Engeneering at Unievangélica! </h2>
 
 ###
 
