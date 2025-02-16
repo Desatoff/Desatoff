@@ -14,14 +14,14 @@ I'm studying Python on RocketSeat and Software Engineering at Unievangélica!
 ---
 
 <center>
-  <img align="right" height="160" src="https://cdn.discordapp.com/attachments/1211484084539363330/1337326020025520190/Design_sem_nome.gif?ex=67a70969&is=67a5b7e9&hm=cd0057aa6e5c6fabcea9fa9701c116d86f63ca4ee42204faaa9e50403d9b8491&"  />
+  <img align="right" height="170" src="https://cdn.discordapp.com/attachments/1211484084539363330/1337326020025520190/Design_sem_nome.gif?ex=67a70969&is=67a5b7e9&hm=cd0057aa6e5c6fabcea9fa9701c116d86f63ca4ee42204faaa9e50403d9b8491&"  />
 </center>
 
 ---
 
 ### Skills
 <center>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </center>
 
 ---
