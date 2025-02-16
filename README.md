@@ -10,16 +10,14 @@
 
 ###
 
-<img align="right" height="160" src="https://cdn.discordapp.com/attachments/1211484084539363330/1337326020025520190/Design_sem_nome.gif?ex=67a70969&is=67a5b7e9&hm=cd0057aa6e5c6fabcea9fa9701c116d86f63ca4ee42204faaa9e50403d9b8491&"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
 </div>
 
 ###
+
+<img align="right" height="160" src="https://cdn.discordapp.com/attachments/1211484084539363330/1337326020025520190/Design_sem_nome.gif?ex=67a70969&is=67a5b7e9&hm=cd0057aa6e5c6fabcea9fa9701c116d86f63ca4ee42204faaa9e50403d9b8491&"  />
 
 <div align="left">
   <a href="https://www.twitch.tv/nuclefar" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
