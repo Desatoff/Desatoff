@@ -21,9 +21,7 @@ I'm studying Python on RocketSeat and Software Engineering at Unievangélica!
 
 ### Language and Tools
 <center>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" style="float: left; margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/hg/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" style="float: left; margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" height="40" alt="sql logo" style="float: left;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </center>
 
 ---
