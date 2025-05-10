@@ -15,16 +15,24 @@ I'm studying Python on RocketSeat and Software Engineering at Unievangélica!
 
 ---
 
-### Language and Tools
+### Languages
 <center>
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  </div>
+</center>
+
+---
+
+### Tools and Others
+<center>
+  <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" height="40" alt="sql logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Light.svg?raw=true" height="40" alt="flask logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="postman logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"/>
-  </div>
+    </div>
 </center>
 
 ---
