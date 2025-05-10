@@ -13,8 +13,6 @@ I'm studying Python on RocketSeat and Software Engineering at Unievangélica!
 
 ---
 
----
-
 ### Languages
 <center>
   <div align="left">
