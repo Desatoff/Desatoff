@@ -17,6 +17,7 @@ I'm studying Python on RocketSeat and Software Engineering at Unievangélica!
 <center>
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="40" alt="lua logo" />
   </div>
 </center>
 
