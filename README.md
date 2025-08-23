@@ -20,7 +20,6 @@ I'm studying Python on RocketSeat and Software Engineering at Unievangélica!
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="40" alt="lua logo" />
   </div>
 </center>
-
 ---
 
 ### DataBases
