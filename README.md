@@ -16,8 +16,8 @@ I'm studying Python on RocketSeat and Software Engineering at Unievangélica!
 ### Languages
 <center>
   <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="40" alt="lua logo" />
+    <img src="./assets/python-white-bg.svg" height="40" alt="python logo"  />
+    <img src="./assets/lua-white-bg.svg" height="40" alt="lua logo" />
   </div>
 </center>
 
@@ -26,10 +26,9 @@ I'm studying Python on RocketSeat and Software Engineering at Unievangélica!
 ### DataBases
 <center>
   <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" height="40" alt="sql logo" />
     <img src="./assets/mongodb-white-bg.svg" height="40" alt="mongodb logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"/>
+    <img src="./assets/postgresql-white-bg.svg" height="40" alt="postgresql logo"/>
+    <img src="./assets/sqlite-white-bg.svg" height="40" alt="sqlite logo"/>
   </div>
 </center>
 
@@ -40,7 +39,7 @@ I'm studying Python on RocketSeat and Software Engineering at Unievangélica!
   <div align="left">
     <img src="./assets/flask-white-bg.svg" height="40" alt="flask logo" />
     <img src="./assets/django-white-bg.svg" height="40" alt="django logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="postman logo" />
+    <img src="./assets/postman-white-bg.svg" height="40" alt="postman logo" />
     <img src="./assets/docker-white-bg.svg" height="40" alt="docker logo" />
     </div>
 </center>
