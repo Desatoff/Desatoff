@@ -46,7 +46,7 @@
   </a>
   
   <a href="https://www.linkedin.com/in/alex-desatoff-56a93934b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=003A8C&logoColor=00B7FF&labelColor=00B7FF&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=003A8C&logoColor=00B7FF&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   
   <a href="https://www.instagram.com/alexdesatoff">
