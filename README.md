@@ -1,7 +1,6 @@
-<center>
+
   ### Hi 👋! My name is Alex Desatoff
   ### I'm studying Python on RocketSeat and Software Engineering at Unievangélica!
-</center>
 
 ---
 
