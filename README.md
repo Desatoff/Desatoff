@@ -1,7 +1,7 @@
-<div align="center">
-  <h1 style="margin: 0;">Hi 👋! My name is Alex Desatoff</h1>
-  <h2 style="margin: 0;">I'm studying Python on RocketSeat and Software Engineering at Unievangélica!</h2>
-  </div>
+<p align="center">
+  <strong>Hi 👋! My name is Alex Desatoff</strong><br>
+  I'm studying Python on RocketSeat and Software Engineering at Unievangélica!
+</p>
 
 ---
 
