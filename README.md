@@ -6,8 +6,8 @@ I'm studying Python on RocketSeat and Software Engineering at Unievangélica!
 
 <center>
   <a href="https://github.com/Desatoff">
-    <img src="https://github-readme-stats.vercel.app/api?username=Desatoff&show_icons=true&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&disable_animations=false&bg_color=F9FAFB&title_color=212B36&text_color=212B36&icon_color=3A82F7&border_color=E1E4E8" height="150" alt="stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Desatoff&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=F9FAFB&title_color=212B36&text_color=212B36&icon_color=3A82F7&border_color=E1E4E8" height="150" alt= "most language used"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Desatoff&theme=algolia" height="150" alt="stats" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Desatoff&theme=algolia" height="150" alt="laguage by repo"/>
   </a>
 </center>
 
@@ -15,7 +15,7 @@ I'm studying Python on RocketSeat and Software Engineering at Unievangélica!
 
 <center>
   <a href="https://github.com/Desatoff">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Desatoff&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="summary card"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Desatoff&theme=algolia" height="150" alt="summary card"/>
   </a>
 </center>
 
