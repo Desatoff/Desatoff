@@ -1,6 +1,6 @@
 <p align="center">
-  <span style="font-size: 32px; font-weight: bold;">Hi 👋! My name is Alex Desatoff</span><br>
-  <span style="font-size: 20px;">I'm studying Python on RocketSeat and Software Engineering at Unievangélica!</span>
+  <span style="font-size: 32px;"><strong>Hi 👋! My name is Alex Desatoff</strong></span><br>
+  <span style="font-size: 20px;"><strong>I'm studying Python on RocketSeat and Software Engineering at Unievangélica!</strong></span>
 </p>
 
 ---
