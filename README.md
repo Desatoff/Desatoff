@@ -23,6 +23,14 @@
 ---
 
 <div align="center">
+    <h3>Languages<h3/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="40" alt="lua logo" />
+</div>
+
+---
+
+<div align="center">
   <h3>Connect with me!</h3>
 
   <a href="https://www.twitch.tv/nuclefar" target="_blank">
