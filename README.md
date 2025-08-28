@@ -11,9 +11,11 @@ I'm studying Python on RocketSeat and Software Engineering at Unievangélica!
   </a>
 </center>
 
+---
+
 <center>
   <a href="https://github.com/Desatoff">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=desatoff&theme=dracula" height="150" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Desatoff&theme=dracula" height="150" alt="summary card" />
   </a>
 </center>
 
