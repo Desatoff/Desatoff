@@ -23,25 +23,17 @@
 
 ---
 
-  <div align="center">
-    <h3>Languages<h3/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="40" alt="lua logo" />
-  </div>
-
----
-
 <div align="center">
   <h3>Connect with me!</h3>
 
   <!-- Twitch -->
   <a href="https://www.twitch.tv/nuclefar" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Twitch-logo-color.svg" height="40" alt="Twitch logo"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" height="40" alt="Twitch logo"/>
   </a>
 
   <!-- Discord -->
   <a href="https://discord.gg/Q22EqJxNXM" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.svg" height="40" alt="Discord logo"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" height="40" alt="Discord logo"/>
   </a>
 
   <!-- Gmail -->
@@ -59,6 +51,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" alt="Instagram logo"/>
   </a>
 </div>
+
 
 ---
 
