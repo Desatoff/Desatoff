@@ -1,6 +1,8 @@
-# Hi 👋! My name is Alex Desatoff
-
-I'm studying Python on RocketSeat and Software Engineering at Unievangélica!
+<div align="center"/>
+  <h1>Hi 👋! My name is Alex Desatoff<h1/>
+  
+  <h2>I'm studying Python on RocketSeat and Software Engineering at Unievangélica!<h2/>
+<div/>
 
 ---
 
