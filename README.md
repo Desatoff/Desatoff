@@ -4,10 +4,10 @@
 
 ---
 
-<div align="center>
+<div align="center">
     <a href="https://github.com/Desatoff">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Desatoff&theme=algolia" height="150" alt="stats" />
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Desatoff&theme=algolia" height="150" alt="laguage by repo"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Desatoff&theme=algolia" height="150" alt="laguage by repo" />
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Desatoff&theme=algolia" height="150" alt="language by commit" />
     </a>
 </div>
