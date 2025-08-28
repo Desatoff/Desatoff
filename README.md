@@ -15,7 +15,7 @@ I'm studying Python on RocketSeat and Software Engineering at Unievangélica!
 
 <center>
   <a href="https://github.com/Desatoff">
-    <img src="https://github-readme-stats.vercel.app/api/summary-cards?username=desatoff&locale=en&hide_title=false&layout=compact&card_width=320&theme=dracula&hide_border=false" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/summary-card?username=desatoff&locale=en&hide_title=false&layout=compact&card_width=320&theme=dracula&hide_border=false" height="150" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Desatoff&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="summary card" />
   </a>
 </center>
