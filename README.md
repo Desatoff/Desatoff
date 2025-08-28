@@ -34,13 +34,27 @@
 <div align="center">
   <h3>Connect with me!</h3>
 
-  <a href="https://www.twitch.tv/nuclefar" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /></a>
-  <a href="https://discord.gg/Q22EqJxNXM" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-  <a href="mailto:alexdesatoff2007@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/alex-desatoff-56a93934b/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <a href="https://www.instagram.com/alexdesatoff"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=833AB4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+  <a href="https://www.twitch.tv/nuclefar" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitch/twitch-original.svg" height="40" alt="Twitch logo"/>
+  </a>
 
+  <a href="https://discord.gg/Q22EqJxNXM" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" height="40" alt="Discord logo"/>
+  </a>
+
+  <a href="mailto:alexdesatoff2007@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Gmail logo"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/alex-desatoff-56a93934b/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo"/>
+  </a>
+
+  <a href="https://www.instagram.com/alexdesatoff" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="40" alt="Instagram logo"/>
+  </a>
 </div>
+
 
 ---
 
