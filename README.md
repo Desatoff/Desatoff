@@ -38,7 +38,7 @@
 
   <!-- Gmail -->
   <a href="mailto:alexdesatoff2007@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="40" alt="Gmail logo"/>
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" height="40" alt="Gmail logo"/>
   </a>
 
   <!-- LinkedIn -->
