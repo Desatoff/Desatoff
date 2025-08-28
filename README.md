@@ -31,29 +31,6 @@ I'm studying Python on RocketSeat and Software Engineering at Unievangélica!
 
 ---
 
-### DataBases
-<center>
-  <div>
-    <img src="./assets/mongodb-white-bg.svg" height="40" alt="mongodb logo"/>
-    <img src="./assets/postgresql-white-bg.svg" height="40" alt="postgresql logo"/>
-    <img src="./assets/sqlite-white-bg.svg" height="40" alt="sqlite logo"/>
-  </div>
-</center>
-
----
-
-### Tools and Others
-<center>
-  <div align="left">
-    <img src="./assets/flask-white-bg.svg" height="40" alt="flask logo" />
-    <img src="./assets/django-white-bg.svg" height="40" alt="django logo" />
-    <img src="./assets/postman-white-bg.svg" height="40" alt="postman logo" />
-    <img src="./assets/docker-white-bg.svg" height="40" alt="docker logo" />
-    </div>
-</center>
-
----
-
 ### Connect with me!
 <center>
   <a href="https://www.twitch.tv/nuclefar" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /></a>
