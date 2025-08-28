@@ -31,7 +31,7 @@
 ---
 
 <div align="center">
-  <h3>Connect with me!</h3>
+  <h3 style="color: #00B7FF";>Connect with me!</h3>
 
   <a href="https://www.twitch.tv/nuclefar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=003A8C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
