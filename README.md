@@ -7,7 +7,7 @@ I'm studying Python on RocketSeat and Software Engineering at Unievangélica!
 <center>
   <a href="https://github.com/Desatoff">
     <img src="https://github-readme-stats.vercel.app/api?username=desatoff&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/summary-cards?username=desatoff&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Desatoff&theme=dracula" height="150" alt="summary card" />
   </a>
 </center>
 
