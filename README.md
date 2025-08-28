@@ -37,7 +37,7 @@
 
   <!-- Gmail -->
   <a href="mailto:alexdesatoff2007@gmail.com">
-    <img height="40" alt="image" src="https://github.com/user-attachments/assets/65d29cdf-82fc-4b41-ab5e-0dc58837b8a5" />
+    <img height="40" alt="image" src="https://github.com/user-attachments/assets/2001cf6c-27b6-4404-9f5c-4a60e73e3aae" />
   </a>
 
   <!-- LinkedIn -->
