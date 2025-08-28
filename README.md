@@ -14,12 +14,12 @@
 
 ---
 
-<center>
+<div align="center">
   <a href="https://github.com/Desatoff">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Desatoff&theme=algolia" height="150" alt="summary card"/>
     <img src= "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Desatoff&theme=algolia&utcOffset=8" height="150" alt="productive time" />
   </a>
-</center>
+</div>
 
 ---
 
