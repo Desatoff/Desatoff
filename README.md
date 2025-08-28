@@ -1,7 +1,7 @@
-<h1 align="center">
-  <strong>Hi 👋! My name is Alex Desatoff</strong><br>
-  <strong>I'm studying Python on RocketSeat and Software Engineering at Unievangélica!</strong>
-</h1>
+<center>
+  ### Hi 👋! My name is Alex Desatoff
+  ### I'm studying Python on RocketSeat and Software Engineering at Unievangélica!
+</center>
 
 ---
 
