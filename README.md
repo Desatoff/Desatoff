@@ -16,8 +16,8 @@ I'm studying Python on RocketSeat and Software Engineering at Unievangélica!
 ### Languages
 <center>
   <div align="left">
-    <img src="./assets/python-white-bg.svg" height="40" alt="python logo"  />
-    <img src="./assets/lua-white-bg.svg" height="40" alt="lua logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="40" alt="lua logo" />
   </div>
 </center>
 
