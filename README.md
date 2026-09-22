@@ -26,6 +26,7 @@
     <h3>Languages<h3/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="java logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html/html-original.svg" height="40" alt="html logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="40" alt="lua logo" />
 </div>
 
